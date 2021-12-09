@@ -24,9 +24,12 @@ namespace Program
 				sum = sum + Numbers[i];
 				Console.WriteLine(sum);
 			}
+
+			// Calculating Average...
 			average = (float)sum / Numbers.Length;
 						
 			Console.Write("The Average of ");
+			
 			// Loop for Answer...
 			for (int j = 0; j < nbr; j++)
 			{
