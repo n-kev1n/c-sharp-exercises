@@ -19,12 +19,8 @@ namespace Program
 			}
 			
 			Console.WriteLine("Reversed Numbers");
-
-			// Loop to Print Numbers...
-			for (int j = Numbers.Length - 1; j >= 0; j--)
-			{
-				Console.Write($"{Numbers[j]} ");
-			}
+			Array.Reverse(Numbers);
+			Console.WriteLine($"{String.Join(',', Numbers)}");
 		}
 	}
 }
