@@ -1,2 +1,3 @@
-# c-sharp-exercises
-School Work (C#)
+# C Sharp Exercises
+
+> Solution for CodeWars C# Exercises
