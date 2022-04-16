@@ -1,3 +1,3 @@
 # C Sharp Exercises
 
-> Solution for CodeWars C# Exercises
+> CodeWars Solution (C# Exercises)
